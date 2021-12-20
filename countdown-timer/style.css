@@ -24,9 +24,10 @@ h1{
     flex-wrap: wrap;
 }
 .big-text{
+    font-weight: bold;
     font-size: 4rem;
     line-height: 1;
-    margin: 0 1rem;
+    margin: 1rem 1rem;
 }
 
 .countdown-el{
